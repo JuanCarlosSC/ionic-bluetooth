@@ -1,0 +1,7 @@
+{
+  "name": "myApp-bluetooth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
